@@ -1,0 +1,15 @@
+wallet
+- amount: 10000
+exchangeRate
+- usd-twdRate
+- twd-usdRate(?) 
+bid
+- amount max: 10, or remainder
+- horse
+history
+- bid amount
+- bid horse
+- twd win/loss
+- remainder at the time
+horse
+- multiplier: 2 min: 2, max: 5. +- 0.1
